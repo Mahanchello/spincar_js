@@ -1,0 +1,97 @@
+13:09:56.951 INFO - Executing: [new session: Capabilities [{rotatable=true, loggingPrefs=org.openqa.selenium.logging.LoggingPreferences@5a4a618e, locationContextEnabled=true, browserName=chrome, javascriptEnabled=true, handlesAlerts=true, requestOrigins={name=webdriverio, version=4.14.3, url=http://webdriver.io}}]])
+13:09:56.987 INFO - Creating a new session for Capabilities [{rotatable=true, loggingPrefs=org.openqa.selenium.logging.LoggingPreferences@5a4a618e, locationContextEnabled=true, browserName=chrome, javascriptEnabled=true, handlesAlerts=true, requestOrigins={name=webdriverio, version=4.14.3, url=http://webdriver.io}}]
+Starting ChromeDriver 2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d) on port 30922
+Only local connections are allowed.
+13:10:00.401 INFO - Done: [new session: Capabilities [{rotatable=true, loggingPrefs=org.openqa.selenium.logging.LoggingPreferences@5a4a618e, locationContextEnabled=true, browserName=chrome, javascriptEnabled=true, handlesAlerts=true, requestOrigins={name=webdriverio, version=4.14.3, url=http://webdriver.io}}]]
+13:10:00.568 INFO - Executing: [get: https://test-selenium-manager.spincar.com/])
+13:10:01.494 INFO - Done: [get: https://test-selenium-manager.spincar.com/]
+13:10:01.552 INFO - Executing: [find elements: By.cssSelector: #email])
+13:10:01.643 INFO - Done: [find elements: By.cssSelector: #email]
+13:10:01.665 INFO - Executing: [clear: 0 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: #email]])
+13:10:01.761 INFO - Done: [clear: 0 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: #email]]
+13:10:01.787 INFO - Executing: [send keys: 0 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: #email], [t, e, s, t, e, r, 3, @, s, p, i, n, c, a, r, ., c, o, m]])
+13:10:02.216 INFO - Done: [send keys: 0 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: #email], [t, e, s, t, e, r, 3, @, s, p, i, n, c, a, r, ., c, o, m]]
+13:10:02.237 INFO - Executing: [find elements: By.cssSelector: #password])
+13:10:02.287 INFO - Done: [find elements: By.cssSelector: #password]
+13:10:02.300 INFO - Executing: [clear: 1 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: #password]])
+13:10:02.383 INFO - Done: [clear: 1 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: #password]]
+13:10:02.395 INFO - Executing: [send keys: 1 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: #password], [p, a, s, s, w, o, r, d]])
+13:10:02.634 INFO - Done: [send keys: 1 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: #password], [p, a, s, s, w, o, r, d]]
+13:10:02.668 INFO - Executing: [find element: By.cssSelector: #submit])
+13:10:02.709 INFO - Done: [find element: By.cssSelector: #submit]
+13:10:02.723 INFO - Executing: [click: 2 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: #submit]])
+13:10:03.556 INFO - Done: [click: 2 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: #submit]]
+13:10:04.579 INFO - Executing: [find element: By.cssSelector: span[class="glyphicon glyphicon-cog"]])
+13:10:04.619 INFO - Done: [find element: By.cssSelector: span[class="glyphicon glyphicon-cog"]]
+13:10:04.635 INFO - Executing: [click: 3 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: span[class="glyphicon glyphicon-cog"]]])
+13:10:04.767 INFO - Done: [click: 3 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: span[class="glyphicon glyphicon-cog"]]]
+13:10:04.802 INFO - Executing: [find element: By.cssSelector: li.dropdown.open > ul > li:nth-child(2) > a])
+13:10:04.847 INFO - Done: [find element: By.cssSelector: li.dropdown.open > ul > li:nth-child(2) > a]
+13:10:04.859 INFO - Executing: [click: 4 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: li.dropdown.open > ul > li:nth-child(2) > a]])
+13:10:05.423 INFO - Done: [click: 4 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: li.dropdown.open > ul > li:nth-child(2) > a]]
+13:10:06.449 INFO - Executing: [find elements: By.cssSelector: #lastpass-disable-search-u])
+13:10:06.499 INFO - Done: [find elements: By.cssSelector: #lastpass-disable-search-u]
+13:10:06.516 INFO - Executing: [clear: 5 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: #lastpass-disable-search-u]])
+13:10:06.598 INFO - Done: [clear: 5 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: #lastpass-disable-search-u]]
+13:10:06.610 INFO - Executing: [send keys: 5 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: #lastpass-disable-search-u], [A, u, d, i, _, A, a, a, a, a, A, 8]])
+13:10:06.962 INFO - Done: [send keys: 5 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: #lastpass-disable-search-u], [A, u, d, i, _, A, a, a, a, a, A, 8]]
+13:10:06.984 INFO - Executing: [find elements: By.cssSelector: #lastpass-disable-search-s])
+13:10:07.068 INFO - Done: [find elements: By.cssSelector: #lastpass-disable-search-s]
+13:10:07.079 INFO - Executing: [clear: 6 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: #lastpass-disable-search-s]])
+13:10:07.156 INFO - Done: [clear: 6 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: #lastpass-disable-search-s]]
+13:10:07.166 INFO - Executing: [send keys: 6 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: #lastpass-disable-search-s], [h, i, g, h, h, h, h, h, _, q, u, l, i, t, y]])
+13:10:07.541 INFO - Done: [send keys: 6 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: #lastpass-disable-search-s], [h, i, g, h, h, h, h, h, _, q, u, l, i, t, y]]
+13:10:07.559 INFO - Executing: [find element: By.cssSelector: #form-create > input.form-control.btn.btn-primary.rbutton25])
+13:10:07.600 INFO - Done: [find element: By.cssSelector: #form-create > input.form-control.btn.btn-primary.rbutton25]
+13:10:07.612 INFO - Executing: [click: 7 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: #form-create > input.form-control.btn.btn-primary.rbutton25]])
+13:10:08.212 INFO - Done: [click: 7 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: #form-create > input.form-control.btn.btn-primary.rbutton25]]
+13:10:09.231 INFO - Executing: [find element: By.cssSelector: ul:nth-child(1) > li:nth-child(2) > a])
+13:10:09.288 INFO - Done: [find element: By.cssSelector: ul:nth-child(1) > li:nth-child(2) > a]
+13:10:09.298 INFO - Executing: [click: 8 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: ul:nth-child(1) > li:nth-child(2) > a]])
+13:10:09.442 INFO - Done: [click: 8 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: ul:nth-child(1) > li:nth-child(2) > a]]
+13:10:09.467 INFO - Executing: [find element: By.cssSelector: li.dropdown.open > ul > li:nth-child(1) > a])
+13:10:09.521 INFO - Done: [find element: By.cssSelector: li.dropdown.open > ul > li:nth-child(1) > a]
+13:10:09.532 INFO - Executing: [click: 9 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: li.dropdown.open > ul > li:nth-child(1) > a]])
+13:10:18.309 INFO - Done: [click: 9 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: li.dropdown.open > ul > li:nth-child(1) > a]]
+13:10:18.346 INFO - Executing: [find element: By.cssSelector: th.table-right])
+13:10:18.389 INFO - Done: [find element: By.cssSelector: th.table-right]
+13:10:18.407 INFO - Executing: [click: 10 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: th.table-right]])
+13:10:22.451 INFO - Done: [click: 10 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: th.table-right]]
+13:10:22.483 INFO - Executing: [find element: By.cssSelector: th.table-right > span])
+13:10:22.546 INFO - Done: [find element: By.cssSelector: th.table-right > span]
+13:10:22.561 INFO - Executing: [click: 11 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: th.table-right > span]])
+13:10:26.230 INFO - Done: [click: 11 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: th.table-right > span]]
+13:10:26.264 INFO - Executing: [find elements: By.cssSelector: tr:nth-child(1) > td.table-right > a])
+13:10:26.336 INFO - Done: [find elements: By.cssSelector: tr:nth-child(1) > td.table-right > a]
+13:10:26.390 INFO - Executing: [get element attribute: 12 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: tr:nth-child(1) > td.table-right > a], value])
+13:10:26.412 INFO - Done: [get element attribute: 12 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: tr:nth-child(1) > td.table-right > a], value]
+13:10:26.430 INFO - Executing: [find element: By.cssSelector: tr:nth-child(1) > td.table-right > a])
+13:10:26.470 INFO - Done: [find element: By.cssSelector: tr:nth-child(1) > td.table-right > a]
+13:10:26.481 INFO - Executing: [click: 12 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: tr:nth-child(1) > td.table-right > a]])
+13:10:26.980 INFO - Done: [click: 12 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: tr:nth-child(1) > td.table-right > a]]
+13:10:28.065 INFO - Executing: [find elements: By.cssSelector: tr:nth-child(2) > td:nth-child(2)])
+13:10:28.108 INFO - Done: [find elements: By.cssSelector: tr:nth-child(2) > td:nth-child(2)]
+13:10:28.142 INFO - Executing: [get element attribute: 13 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: tr:nth-child(2) > td:nth-child(2)], value])
+13:10:28.165 INFO - Done: [get element attribute: 13 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: tr:nth-child(2) > td:nth-child(2)], value]
+13:10:28.183 INFO - Executing: [find elements: By.cssSelector: #name])
+13:10:28.228 INFO - Done: [find elements: By.cssSelector: #name]
+13:10:28.256 INFO - Executing: [get element attribute: 14 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: #name], value])
+13:10:28.284 INFO - Done: [get element attribute: 14 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: #name], value]
+13:10:28.306 INFO - Executing: [find elements: By.name: s3_folder])
+13:10:28.355 INFO - Done: [find elements: By.name: s3_folder]
+13:10:28.381 INFO - Executing: [get element attribute: 15 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> name: s3_folder], value])
+13:10:28.404 INFO - Done: [get element attribute: 15 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> name: s3_folder], value]
+13:10:28.423 INFO - Executing: [find elements: By.name: max_size])
+13:10:28.467 INFO - Done: [find elements: By.name: max_size]
+13:10:28.489 INFO - Executing: [get element attribute: 16 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> name: max_size], value])
+13:10:28.514 INFO - Done: [get element attribute: 16 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> name: max_size], value]
+13:10:28.530 INFO - Executing: [find elements: By.name: pano_max_size])
+13:10:28.572 INFO - Done: [find elements: By.name: pano_max_size]
+13:10:28.597 INFO - Executing: [get element attribute: 17 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> name: pano_max_size], value])
+13:10:28.618 INFO - Done: [get element attribute: 17 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> name: pano_max_size], value]
+13:10:28.634 INFO - Executing: [find element: By.cssSelector: input[type="checkbox"][name="is_spin_customer"]])
+13:10:28.679 INFO - Done: [find element: By.cssSelector: input[type="checkbox"][name="is_spin_customer"]]
+13:10:29.746 INFO - Executing: [is selected: 18 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: input[type="checkbox"][name="is_spin_customer"]]])
+13:10:29.803 INFO - Done: [is selected: 18 [[ChromeDriver: chrome on LINUX (408a1168e91ffc7eff11d55639353fbd)] -> css selector: input[type="checkbox"][name="is_spin_customer"]]]
+13:10:29.928 INFO - Executing: [delete session: 2842b06f-78aa-4cd5-a531-318209d7b1f5])
+13:10:30.615 INFO - Done: [delete session: 2842b06f-78aa-4cd5-a531-318209d7b1f5]
