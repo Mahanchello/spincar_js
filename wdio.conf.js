@@ -2,7 +2,7 @@ var baseUrl = 'https://test-selenium-manager.spincar.com/'
 exports.config = {
     framework: 'mocha',
     mochaOpts: {
-        timeout: 40000
+        timeout: 400010
     },
     specs: [
         './tests/*.js'
