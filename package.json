@@ -1,7 +1,7 @@
 {
   "name": "spincar",
   "version": "1.0.0",
-  "description": "spincar test",
+  "description": "nastya test",
   "main": "index.js",
   "scripts": {
     "test": "wdio"
